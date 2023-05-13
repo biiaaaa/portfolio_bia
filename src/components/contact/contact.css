@@ -1,0 +1,29 @@
+.contact__container{
+ align-items: center;
+ justify-content: center;
+}
+
+.contact__title{
+    font-size: 25px;
+    margin-bottom: 0.5rem;
+    text-align: center;
+}
+
+.section__title{
+    text-align: center;
+    font-size: 40px;
+}
+
+.contact__button{
+    text-align: center;
+}
+
+.contact__details{
+    text-align: center;
+}
+
+.contact__git{
+    text-align: center;
+}
+
+
